@@ -1,8 +1,8 @@
 # Hola, soy Jhon Israel Cordova Mosquera 👋
 
-Actualmente estudio **Ingeniería en Ciencias de la Computación** en la **Universidad Politécnica Salesiana (UPS)**.
-Quito - Ecuador.
-
+Actualmente estudio **Ingeniería en Ciencias de la Computación**  
+**Universidad Politécnica Salesiana (UPS)**  
+Quito - Ecuador.  
 
 ---
 
@@ -42,4 +42,3 @@ Quito - Ecuador.
 
 ---
 
-📌 **Puedes ver mi portafolio en:** *Still Working*
