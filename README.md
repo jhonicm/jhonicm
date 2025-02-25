@@ -3,7 +3,6 @@
 Actualmente estudio **Ingeniería en Ciencias de la Computación** en la **Universidad Politécnica Salesiana (UPS)**.
 Quito - Ecuador.
 
-Puedes ver mi tiempo de codificación en: [Wakatime](https://wakatime.com/@tu_usuario)
 
 ---
 
@@ -35,10 +34,11 @@ Puedes ver mi tiempo de codificación en: [Wakatime](https://wakatime.com/@tu_us
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Workspace_Logo.svg" alt="WS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
 </p>
+
 
 ---
 
