@@ -15,8 +15,8 @@ Quito - Ecuador.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://github.com/jhonicm/images/blob/main/rstudio_94807.png" alt="React" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/file_type_python_icon_130221.png" alt="React" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/file_type_r_icon_130212.png" alt="React" width="40" height="40"/>
 </p>
 
 ---
@@ -39,6 +39,8 @@ Quito - Ecuador.
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/icons8-visual-studio-code-2019-48.png" alt="Visual Studio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/rstudio_94807.png" alt="React" width="40" height="40"/>
+
 </p>
 
 
