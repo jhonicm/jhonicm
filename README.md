@@ -16,6 +16,8 @@ Quito - Ecuador.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/file_type_python_icon_130221.png" alt="React" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/html-5.png" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/css-3.png" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/file_type_r_icon_130212.png" alt="React" width="40" height="40"/>
 </p>
 
