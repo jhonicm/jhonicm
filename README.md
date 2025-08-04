@@ -15,7 +15,7 @@ Quito - Ecuador.
 
 ### 🗄 Bases de Datos:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ---
