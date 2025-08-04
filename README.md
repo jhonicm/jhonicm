@@ -43,6 +43,7 @@ Quito - Ecuador.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/rstudio_94807.png" alt="React" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/pycharm.jpg" alt="Docker" width="40" height="40"/>
 
 </p>
 
