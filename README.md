@@ -33,7 +33,7 @@ Quito - Ecuador.
 
 ### ⚙️ Herramientas:
 <p align="left">
-  <img src="https://github.com/jhonicm/images/blob/main/github%20(1).png" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/jhonicm/images/blob/main/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   <img src="https://github.com/jhonicm/images/blob/main/icons8-nuevo-logotipo-discord-48.png" alt="Discord" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="40" height="40"/>
